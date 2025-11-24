@@ -1,0 +1,236 @@
+1.39.8
+
+Nick indicators +1cc
+0x1722194
+
+200080D2
+
+private void DrawCharacterIndicators(IndicatorRenderer indicatorRenderer, int followedId, vo2eqio<int> localTeamIndex) { }
+
+
+
+
+
+
+Radar   +2c
+0x1684900
+
+C8008052
+
+
+public void GetSpottedStatus(out Character.GetSpottedStatusResult spotted) { }
+
+
+
+
+
+
+
+No spread
+0x1549398
+
+C0035FD6
+
+
+public void UpdateSpread() { }
+
+
+
+
+
+
+
+
+
+Rain    +274
+0x1700f6c
+
+0090261E  - 20
+00F0271E  - 31
+E003271E  - 32(думаю не ворк, превышает макс зону)
+
+
+
+private void UpdateCharacterHitBuffer(Character character, Ray ray, ref int hitIndex) { }
+
+
+
+
+
+
+
+Crosshair
+0x171AECC
+
+200080D2
+
+
+public bool get_Crosshair() { }
+
+
+
+
+
+
+
+No granage
+0x1718E98
+
+C0035FD6
+
+
+
+public void ExplodeGrenade() { }
+
+
+
+
+
+Shoot throw walls
+0x1700880
+
+C0035FD6
+
+private void UpdateWallHit(RaycastHit hit, WallPenetration wallPenetration, ref int damagePercent, out MaterialDef hitMaterial) { }
+
+
+
+
+
+
+
+wallbang    +C0
+0x170044c
+
+D503201F
+
+private void ProcessHitBuffers(int wallHitCount, int characterHitCount, BurstData burstData) { }
+
+
+
+
+
+
+
+
+
+No Sniper Blur
+0x1690210
+
+C0035FD6
+
+public void set_Spread(float value) { }
+
+
+
+
+
+
+Walk Through Walls
+0x23871F8
+
+0090341EC0035FD6
+
+public float get_radius() { }
+
+
+
+
+
+
+
+Walk on Air
+0x2387238
+
+0010221EC0035FD6
+
+
+public float get_height() { }
+
+
+
+
+
+Aim
+0x16E63C4
+
+0010201EC0035FD6  -2
+0090221EC0035FD6  -5
+0010241EC0035FD6  -8
+
+private float CriticalOps.Gameplay.IAimSettingsTouch.get_AimAssistAmount() { }
+
+
+
+
+
+
+
+team radar 
+0x168a194,          0x238425C
+
+1F01086B, 000080D2c0035fd6
+
+public void CheckCharacterVisibility(out bool visibility) { }
+public static bool Linecast(Vector3 start, Vector3 end, int layerMask) { }
+
+
+
+
+
+
+
+No shake
+0x1682798,        0x1682778
+
+00008052C0035FD6, 00008052C0035FD6
+
+
+public float get_RecoilY() { }
+public float get_RecoilX() { }
+
+
+
+
+
+
+
+
+namespoofer
+0x183C74C
+
+000080D2C0035FD6
+
+
+public void Init(IPlayer killer, IPlayer victim, Sprite killerWeaponIcon, bool headshot) { }
+
+
+
+
+
+
+
+
+
+tutorial bypass
+0x1615CA4
+0x161525C
+0x1615EBC
+0x16150EC
+0x1614F7C
+
+
+60018052C0035FD6
+60018052C0035FD6
+60018052C0035FD6
+60018052C0035FD6
+60018052C0035FD6
+
+
+
+
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsGameplayStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsMenuStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsPracticeStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsFirstMatchStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsProfileStageCompleted() { }

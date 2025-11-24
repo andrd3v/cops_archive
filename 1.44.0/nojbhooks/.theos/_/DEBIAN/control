@@ -1,0 +1,11 @@
+Package: ironlegion.ware
+Name: Standoff 2 Mod Menu
+Depends: mobilesubstrate
+Description: Standoff 2 Mod Menu by IL!
+Maintainer: IL
+Author: IL
+Section: Tweaks
+Homepage: 
+Architecture: iphoneos-arm
+Version: 0.25.1
+Installed-Size: 432

@@ -1,0 +1,40 @@
+ *IF YOU USE IT, GIVE CREDIT TO jWalk1324#1324*
+
+
+---------------------------------------------------------------------------------------------------------------
+
+ Name     Offsets       Bytes
+
+Radar - 0x173c290 - 0x200080d2c0035fd 
+ESP Radar - 0x1611260 - 0x200080d2c0035fd6
+Team Radar - 0x173e4dc, 0x22f2104 - 0x200080d2c0035fd6, 0x000080D2c0035fd6
+No Recoil - 0x17450b8 - 0x000080d2c0035fd
+No Spread - 0x174500c - 0x000080d2c0035fd
+No Dryfire - 0x14a710c - 0x000080d2c0035fd
+No Aimpunch - 0x17451c8 - 0x000080d2c0035fd
+No Flash - 0x13bbef0, 0x1744b6c - 0x000080d2c0035fd6, 0x000080d2c0035fd6
+Always Crosshair - 0x1451f34 - 0x200080d2c0035fd6
+Aim Assist - 0x1381cbc - 0x00F0271EC0035FD6
+No Blur - 0x227a14c - 0x000080D2C0035FD6
+No Shake - 0x173c1e8, 0x173c208 - 0x000080D2C0035FD6, 0x000080D2C0035FD6
+Supressed Guns - 0x1452074 - 0x200080D2C0035FD6
+Speed - 0x173ca88 - 0x0070261EC0035FD6
+Fly - 0x22f04b0 - 0x0090211eC0035FD6
+Be Statue - 0x22a3f4c - 0x0090211eC0035FD6
+Shoot Through Walls - 0x1403ea4 - 0x000080D2C0035FD6
+Walk Through Walls - 0x14a16e8 - 0x000080D2C0035FD6
+Name Spoofer - 0x1489f70 - 0x000080D2C0035FD6 
+Bypass Tutorial - 0x1675a48, 0x1675fb8, 0x166ebd0, 0x1676044 - 0x200080D2C0035FD6, 0x200080D2C0035FD6, 0x200080D2C0035FD6, 0x200080D2C0035FD6
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+Credit - jWalk1324#1324
+
+If you wanna use it, use it but give credit.
+
+Critical Ops is trash.
+
+---------------------------------------------------------------------------------------------------------------
+

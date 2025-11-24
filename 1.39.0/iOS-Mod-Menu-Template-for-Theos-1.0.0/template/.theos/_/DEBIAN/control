@@ -1,0 +1,11 @@
+Package: andr
+Name: andrModMenu
+Depends: mobilesubstrate
+Description: andr Mod Menu by andr!
+Maintainer: andr
+Author: andr
+Section: Tweaks
+Homepage: not
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 668

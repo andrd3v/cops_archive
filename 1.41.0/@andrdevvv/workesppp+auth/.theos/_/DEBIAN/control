@@ -1,0 +1,11 @@
+Package: com.andr.cops1404
+Name: andr hack
+Depends: mobilesubstrate
+Description: andr hack cops 1.41.0
+Maintainer: andr
+Author: andr
+Section: Tweaks
+Homepage: none
+Architecture: iphoneos-arm64
+Version: 1.41.0
+Installed-Size: 528

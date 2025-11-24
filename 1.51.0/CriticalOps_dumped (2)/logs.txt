@@ -1,0 +1,375 @@
+BaseAddress: 0x105638000
+==========================
+Init Dumping...
+Total Assemblies: 122
+assembly 0 UnityEngine.AssetBundleModule.dll
+assembly 1 UnityEngine.UIModule.dll
+assembly 2 QRCoder.dll
+assembly 3 O3091A6FFF.dll
+assembly 4 mscorlib.dll
+assembly 5 Firebase.Platform.dll
+assembly 6 OFA750D13F.dll
+assembly 7 SingularSDK.dll
+assembly 8 O53FDE56B3.dll
+assembly 9 O6C8E3BD1D.dll
+assembly 10 UnityEngine.JSONSerializeModule.dll
+assembly 11 O4D10A4C9C.dll
+assembly 12 Unity.Services.Core.Environments.dll
+assembly 13 O2F6FA73CC.dll
+assembly 14 Unity.ProBuilder.dll
+assembly 15 UnityEngine.Purchasing.Apple.dll
+assembly 16 Facebook.Unity.dll
+assembly 17 Mono.Security.dll
+assembly 18 O891F8A76F.dll
+assembly 19 UnityEngine.UnityWebRequestModule.dll
+assembly 20 Facebook.Unity.IOS.dll
+assembly 21 UnityEngine.ImageConversionModule.dll
+assembly 22 AppleAuth.dll
+assembly 23 UnityEngine.HierarchyCoreModule.dll
+assembly 24 OC69065DE1.dll
+assembly 25 O7DFFFD373.dll
+assembly 26 JsonFx.Json.dll
+assembly 27 GoogleMobileAds.Common.dll
+assembly 28 System.Runtime.Serialization.dll
+assembly 29 Firebase.Crashlytics.dll
+assembly 30 __Generated
+assembly 31 UnityEngine.UI.dll
+assembly 32 O5CEED480E.dll
+assembly 33 Unity.Services.Core.Internal.dll
+assembly 34 Unity.ProBuilder.KdTree.dll
+assembly 35 UnityEngine.InputLegacyModule.dll
+assembly 36 UnityEngine.PhysicsModule.dll
+assembly 37 O5B7CA23E0.dll
+assembly 38 Unity.Services.Core.Environments.Internal.dll
+assembly 39 O38EBF5BEB.dll
+assembly 40 System.dll
+assembly 41 Facebook.Unity.Settings.dll
+assembly 42 O930B8C6B8.dll
+assembly 43 OF1C2B7CEE.dll
+assembly 44 UnityEngine.Purchasing.AppleCore.dll
+assembly 45 Unity.LevelPlay.dll
+assembly 46 Unity.Advertisement.IosSupport.dll
+assembly 47 MsgPack.dll
+assembly 48 OC738799AB.dll
+assembly 49 System.Xml.Linq.dll
+assembly 50 UnityEngine.Purchasing.WinRTStub.dll
+assembly 51 Unity.Services.Core.Scheduler.dll
+assembly 52 Unity.Services.Core.Telemetry.dll
+assembly 53 Purchasing.Common.dll
+assembly 54 System.Xml.dll
+assembly 55 UnityEngine.Purchasing.Stores.dll
+assembly 56 UnityEngine.AudioModule.dll
+assembly 57 O1A34DA5BF.dll
+assembly 58 GoogleMobileAds.Ump.iOS.dll
+assembly 59 com.theymes.sdk.dll
+assembly 60 cf-render-lib.dll
+assembly 61 Firebase.Messaging.dll
+assembly 62 UnityEngine.ParticleSystemModule.dll
+assembly 63 O81143D025.dll
+assembly 64 UnityEngine.dll
+assembly 65 System.Data.dll
+assembly 66 Unity.Services.Core.dll
+assembly 67 UnityEngine.Purchasing.dll
+assembly 68 cf-render-lib-unity.dll
+assembly 69 O9811B6FBB.dll
+assembly 70 UnityEngine.TextRenderingModule.dll
+assembly 71 Firebase.App.dll
+assembly 72 UnityEngine.UnityAnalyticsCommonModule.dll
+assembly 73 Unity.Services.Core.Device.dll
+assembly 74 UnityEngine.InputForUIModule.dll
+assembly 75 UnityEngine.AnimationModule.dll
+assembly 76 GoogleMobileAds.Ump.dll
+assembly 77 UnityEngine.Purchasing.WinRTCore.dll
+assembly 78 UnityEngine.InputModule.dll
+assembly 79 UnityEngine.PropertiesModule.dll
+assembly 80 OC26DE7B80.dll
+assembly 81 Unity.Services.Core.Threading.dll
+assembly 82 UnityEngine.IMGUIModule.dll
+assembly 83 O27ECE2E36.dll
+assembly 84 Unity.Services.Core.Configuration.dll
+assembly 85 Tapjoy.Plugin.Runtime.dll
+assembly 86 UnityEngine.GameCenterModule.dll
+assembly 87 System.Drawing.dll
+assembly 88 UnityEngine.AIModule.dll
+assembly 89 UnityEngine.UnityWebRequestTextureModule.dll
+assembly 90 OEFBB668B0.dll
+assembly 91 Unity.Services.Core.Registration.dll
+assembly 92 O9AB1B0FDA.dll
+assembly 93 UnityEngine.Purchasing.Security.dll
+assembly 94 UnityEngine.CoreModule.dll
+assembly 95 Unity.Notifications.iOS.dll
+assembly 96 UnityEngine.TextCoreFontEngineModule.dll
+assembly 97 O0F8C7ACD3.dll
+assembly 98 System.Numerics.dll
+assembly 99 GoogleMobileAds.Core.dll
+assembly 100 UnityEngine.UnityAnalyticsModule.dll
+assembly 101 CodeStage.dll
+assembly 102 O1831292E3.dll
+assembly 103 Unity.InputSystem.ForUI.dll
+assembly 104 O6CBF19E73.dll
+assembly 105 UnityEngine.Purchasing.SecurityCore.dll
+assembly 106 GoogleMobileAds.dll
+assembly 107 UnityEngine.SharedInternalsModule.dll
+assembly 108 System.Core.dll
+assembly 109 UnityEngine.UIElementsModule.dll
+assembly 110 GoogleMobileAds.iOS.dll
+assembly 111 Unity.InputSystem.dll
+assembly 112 Firebase.Analytics.dll
+assembly 113 UnityEngine.TextCoreTextEngineModule.dll
+assembly 114 Unity.ProBuilder.Poly2Tri.dll
+assembly 115 O77CB2DE52.dll
+assembly 116 ODF5674412.dll
+assembly 117 System.Configuration.dll
+assembly 118 Newtonsoft.Json.dll
+assembly 119 O9CB6E7CCE.dll
+assembly 120 UnityEngine.Purchasing.AppleMacosStub.dll
+assembly 121 UnityEngine.AndroidJNIModule.dll
+Stage 1
+assembly UnityEngine.AssetBundleModule.dll
+Total Classes in UnityEngine.AssetBundleModule.dll: 9
+assembly UnityEngine.UIModule.dll
+Total Classes in UnityEngine.UIModule.dll: 12
+assembly QRCoder.dll
+Total Classes in QRCoder.dll: 41
+assembly O3091A6FFF.dll
+Total Classes in O3091A6FFF.dll: 738
+assembly mscorlib.dll
+Total Classes in mscorlib.dll: 1783
+assembly Firebase.Platform.dll
+Total Classes in Firebase.Platform.dll: 39
+assembly OFA750D13F.dll
+Total Classes in OFA750D13F.dll: 2
+assembly SingularSDK.dll
+Total Classes in SingularSDK.dll: 27
+assembly O53FDE56B3.dll
+Total Classes in O53FDE56B3.dll: 9
+assembly O6C8E3BD1D.dll
+Total Classes in O6C8E3BD1D.dll: 53
+assembly UnityEngine.JSONSerializeModule.dll
+Total Classes in UnityEngine.JSONSerializeModule.dll: 2
+assembly O4D10A4C9C.dll
+Total Classes in O4D10A4C9C.dll: 6
+assembly Unity.Services.Core.Environments.dll
+Total Classes in Unity.Services.Core.Environments.dll: 2
+assembly O2F6FA73CC.dll
+Total Classes in O2F6FA73CC.dll: 4480
+assembly Unity.ProBuilder.dll
+Total Classes in Unity.ProBuilder.dll: 209
+assembly UnityEngine.Purchasing.Apple.dll
+Total Classes in UnityEngine.Purchasing.Apple.dll: 2
+assembly Facebook.Unity.dll
+Total Classes in Facebook.Unity.dll: 196
+assembly Mono.Security.dll
+Total Classes in Mono.Security.dll: 104
+assembly O891F8A76F.dll
+Total Classes in O891F8A76F.dll: 113
+assembly UnityEngine.UnityWebRequestModule.dll
+Total Classes in UnityEngine.UnityWebRequestModule.dll: 19
+assembly Facebook.Unity.IOS.dll
+Total Classes in Facebook.Unity.IOS.dll: 2
+assembly UnityEngine.ImageConversionModule.dll
+Total Classes in UnityEngine.ImageConversionModule.dll: 2
+assembly AppleAuth.dll
+Total Classes in AppleAuth.dll: 28
+assembly UnityEngine.HierarchyCoreModule.dll
+Total Classes in UnityEngine.HierarchyCoreModule.dll: 44
+assembly OC69065DE1.dll
+Total Classes in OC69065DE1.dll: 186
+assembly O7DFFFD373.dll
+Total Classes in O7DFFFD373.dll: 25
+assembly JsonFx.Json.dll
+Total Classes in JsonFx.Json.dll: 18
+assembly GoogleMobileAds.Common.dll
+Total Classes in GoogleMobileAds.Common.dll: 30
+assembly System.Runtime.Serialization.dll
+Total Classes in System.Runtime.Serialization.dll: 5
+assembly Firebase.Crashlytics.dll
+Total Classes in Firebase.Crashlytics.dll: 12
+assembly __Generated
+Total Classes in __Generated: 5
+assembly UnityEngine.UI.dll
+Total Classes in UnityEngine.UI.dll: 202
+assembly O5CEED480E.dll
+Total Classes in O5CEED480E.dll: 30
+assembly Unity.Services.Core.Internal.dll
+Total Classes in Unity.Services.Core.Internal.dll: 61
+assembly Unity.ProBuilder.KdTree.dll
+Total Classes in Unity.ProBuilder.KdTree.dll: 14
+assembly UnityEngine.InputLegacyModule.dll
+Total Classes in UnityEngine.InputLegacyModule.dll: 14
+assembly UnityEngine.PhysicsModule.dll
+Total Classes in UnityEngine.PhysicsModule.dll: 32
+assembly O5B7CA23E0.dll
+Total Classes in O5B7CA23E0.dll: 57
+assembly Unity.Services.Core.Environments.Internal.dll
+Total Classes in Unity.Services.Core.Environments.Internal.dll: 2
+assembly O38EBF5BEB.dll
+Total Classes in O38EBF5BEB.dll: 5
+assembly System.dll
+Total Classes in System.dll: 905
+assembly Facebook.Unity.Settings.dll
+Total Classes in Facebook.Unity.Settings.dll: 6
+assembly O930B8C6B8.dll
+Total Classes in O930B8C6B8.dll: 13
+assembly OF1C2B7CEE.dll
+Total Classes in OF1C2B7CEE.dll: 23
+assembly UnityEngine.Purchasing.AppleCore.dll
+Total Classes in UnityEngine.Purchasing.AppleCore.dll: 2
+assembly Unity.LevelPlay.dll
+Total Classes in Unity.LevelPlay.dll: 215
+assembly Unity.Advertisement.IosSupport.dll
+Total Classes in Unity.Advertisement.IosSupport.dll: 4
+assembly MsgPack.dll
+Total Classes in MsgPack.dll: 687
+assembly OC738799AB.dll
+Total Classes in OC738799AB.dll: 157
+assembly System.Xml.Linq.dll
+Total Classes in System.Xml.Linq.dll: 38
+assembly UnityEngine.Purchasing.WinRTStub.dll
+Total Classes in UnityEngine.Purchasing.WinRTStub.dll: 2
+assembly Unity.Services.Core.Scheduler.dll
+Total Classes in Unity.Services.Core.Scheduler.dll: 9
+assembly Unity.Services.Core.Telemetry.dll
+Total Classes in Unity.Services.Core.Telemetry.dll: 5
+assembly Purchasing.Common.dll
+Total Classes in Purchasing.Common.dll: 9
+assembly System.Xml.dll
+Total Classes in System.Xml.dll: 754
+assembly UnityEngine.Purchasing.Stores.dll
+Total Classes in UnityEngine.Purchasing.Stores.dll: 236
+assembly UnityEngine.AudioModule.dll
+Total Classes in UnityEngine.AudioModule.dll: 29
+assembly O1A34DA5BF.dll
+Total Classes in O1A34DA5BF.dll: 22
+assembly GoogleMobileAds.Ump.iOS.dll
+Total Classes in GoogleMobileAds.Ump.iOS.dll: 8
+assembly com.theymes.sdk.dll
+Total Classes in com.theymes.sdk.dll: 21
+assembly cf-render-lib.dll
+Total Classes in cf-render-lib.dll: 55
+assembly Firebase.Messaging.dll
+Total Classes in Firebase.Messaging.dll: 23
+assembly UnityEngine.ParticleSystemModule.dll
+Total Classes in UnityEngine.ParticleSystemModule.dll: 65
+assembly O81143D025.dll
+Total Classes in O81143D025.dll: 6
+assembly UnityEngine.dll
+Total Classes in UnityEngine.dll: 1
+assembly System.Data.dll
+Total Classes in System.Data.dll: 241
+assembly Unity.Services.Core.dll
+Total Classes in Unity.Services.Core.dll: 12
+assembly UnityEngine.Purchasing.dll
+Total Classes in UnityEngine.Purchasing.dll: 78
+assembly cf-render-lib-unity.dll
+Total Classes in cf-render-lib-unity.dll: 128
+assembly O9811B6FBB.dll
+Total Classes in O9811B6FBB.dll: 1
+assembly UnityEngine.TextRenderingModule.dll
+Total Classes in UnityEngine.TextRenderingModule.dll: 18
+assembly Firebase.App.dll
+Total Classes in Firebase.App.dll: 45
+assembly UnityEngine.UnityAnalyticsCommonModule.dll
+Total Classes in UnityEngine.UnityAnalyticsCommonModule.dll: 36
+assembly Unity.Services.Core.Device.dll
+Total Classes in Unity.Services.Core.Device.dll: 6
+assembly UnityEngine.InputForUIModule.dll
+Total Classes in UnityEngine.InputForUIModule.dll: 48
+assembly UnityEngine.AnimationModule.dll
+Total Classes in UnityEngine.AnimationModule.dll: 57
+assembly GoogleMobileAds.Ump.dll
+Total Classes in GoogleMobileAds.Ump.dll: 19
+assembly UnityEngine.Purchasing.WinRTCore.dll
+Total Classes in UnityEngine.Purchasing.WinRTCore.dll: 4
+assembly UnityEngine.InputModule.dll
+Total Classes in UnityEngine.InputModule.dll: 7
+assembly UnityEngine.PropertiesModule.dll
+Total Classes in UnityEngine.PropertiesModule.dll: 165
+assembly OC26DE7B80.dll
+Total Classes in OC26DE7B80.dll: 22
+assembly Unity.Services.Core.Threading.dll
+Total Classes in Unity.Services.Core.Threading.dll: 2
+assembly UnityEngine.IMGUIModule.dll
+Total Classes in UnityEngine.IMGUIModule.dll: 53
+assembly O27ECE2E36.dll
+Total Classes in O27ECE2E36.dll: 29
+assembly Unity.Services.Core.Configuration.dll
+Total Classes in Unity.Services.Core.Configuration.dll: 12
+assembly Tapjoy.Plugin.Runtime.dll
+Total Classes in Tapjoy.Plugin.Runtime.dll: 89
+assembly UnityEngine.GameCenterModule.dll
+Total Classes in UnityEngine.GameCenterModule.dll: 27
+assembly System.Drawing.dll
+Total Classes in System.Drawing.dll: 11
+assembly UnityEngine.AIModule.dll
+Total Classes in UnityEngine.AIModule.dll: 3
+assembly UnityEngine.UnityWebRequestTextureModule.dll
+Total Classes in UnityEngine.UnityWebRequestTextureModule.dll: 6
+assembly OEFBB668B0.dll
+Total Classes in OEFBB668B0.dll: 22
+assembly Unity.Services.Core.Registration.dll
+Total Classes in Unity.Services.Core.Registration.dll: 6
+assembly O9AB1B0FDA.dll
+Total Classes in O9AB1B0FDA.dll: 7
+assembly UnityEngine.Purchasing.Security.dll
+Total Classes in UnityEngine.Purchasing.Security.dll: 21
+assembly UnityEngine.CoreModule.dll
+Total Classes in UnityEngine.CoreModule.dll: 824
+assembly Unity.Notifications.iOS.dll
+Total Classes in Unity.Notifications.iOS.dll: 33
+assembly UnityEngine.TextCoreFontEngineModule.dll
+Total Classes in UnityEngine.TextCoreFontEngineModule.dll: 24
+assembly O0F8C7ACD3.dll
+Total Classes in O0F8C7ACD3.dll: 9
+assembly System.Numerics.dll
+Total Classes in System.Numerics.dll: 13
+assembly GoogleMobileAds.Core.dll
+Total Classes in GoogleMobileAds.Core.dll: 29
+assembly UnityEngine.UnityAnalyticsModule.dll
+Total Classes in UnityEngine.UnityAnalyticsModule.dll: 14
+assembly CodeStage.dll
+Total Classes in CodeStage.dll: 13
+assembly O1831292E3.dll
+Total Classes in O1831292E3.dll: 2
+assembly Unity.InputSystem.ForUI.dll
+Total Classes in Unity.InputSystem.ForUI.dll: 4
+assembly O6CBF19E73.dll
+Total Classes in O6CBF19E73.dll: 23
+assembly UnityEngine.Purchasing.SecurityCore.dll
+Total Classes in UnityEngine.Purchasing.SecurityCore.dll: 4
+assembly GoogleMobileAds.dll
+Total Classes in GoogleMobileAds.dll: 3
+assembly UnityEngine.SharedInternalsModule.dll
+Total Classes in UnityEngine.SharedInternalsModule.dll: 28
+assembly System.Core.dll
+Total Classes in System.Core.dll: 667
+assembly UnityEngine.UIElementsModule.dll
+Total Classes in UnityEngine.UIElementsModule.dll: 1548
+assembly GoogleMobileAds.iOS.dll
+Total Classes in GoogleMobileAds.iOS.dll: 105
+assembly Unity.InputSystem.dll
+Total Classes in Unity.InputSystem.dll: 632
+assembly Firebase.Analytics.dll
+Total Classes in Firebase.Analytics.dll: 15
+assembly UnityEngine.TextCoreTextEngineModule.dll
+Total Classes in UnityEngine.TextCoreTextEngineModule.dll: 109
+assembly Unity.ProBuilder.Poly2Tri.dll
+Total Classes in Unity.ProBuilder.Poly2Tri.dll: 27
+assembly O77CB2DE52.dll
+Total Classes in O77CB2DE52.dll: 4
+assembly ODF5674412.dll
+Total Classes in ODF5674412.dll: 19
+assembly System.Configuration.dll
+Total Classes in System.Configuration.dll: 10
+assembly Newtonsoft.Json.dll
+Total Classes in Newtonsoft.Json.dll: 305
+assembly O9CB6E7CCE.dll
+Total Classes in O9CB6E7CCE.dll: 9
+assembly UnityEngine.Purchasing.AppleMacosStub.dll
+Total Classes in UnityEngine.Purchasing.AppleMacosStub.dll: 2
+assembly UnityEngine.AndroidJNIModule.dll
+Total Classes in UnityEngine.AndroidJNIModule.dll: 35
+Dumping Completed.
+Dumped total 65549 fields and 116484 methods
+Saving Script...
+Script Saved.

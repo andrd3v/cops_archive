@@ -1,0 +1,5 @@
+// Namespace: 
+internal class <Module>
+{}
+
+

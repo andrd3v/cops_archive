@@ -1,0 +1,208 @@
+1.40.2
+
+Nick indicators +1cc
+0x1801C74
+
+200080D2
+
+private void DrawCharacterIndicators(IndicatorRenderer indicatorRenderer, int followedId, vo2eqio<int> localTeamIndex) { }
+
+
+
+
+
+
+Radar   +2c
+0x196508c
+
+C8008052
+
+
+public void GetSpottedStatus(out Character.GetSpottedStatusResult spotted) { }
+
+
+
+
+
+
+No Recoil
+0x17AC4CC
+0x17AC4E0
+0x17AC4F8
+
+000941BD
+000941BD
+000941BD
+
+
+
+
+
+
+No spread
+0x17ABDCC
+
+C0035FD6
+
+
+
+public void UpdateSpread() { }
+
+
+
+
+
+
+
+
+
+Rain    +274
+0x154E6F0
+
+0090261E  - 20
+00F0271E  - 31
+E003271E  - 32(думаю не ворк, превышает макс зону)
+
+
+
+private void UpdateCharacterHitBuffer(Character character, Ray ray, ref int hitIndex) { }
+
+
+
+
+
+
+
+Crosshair
+0x15AD76C
+
+200080D2
+
+
+public bool get_Crosshair() { }
+
+
+
+
+
+
+
+No granage
+0x19320D4
+
+C0035FD6
+
+
+
+public void ExplodeGrenade() { }
+
+
+
+
+
+Shoot throw walls
+0x13D17C4
+
+C0035FD6
+
+private void UpdateWallHit(RaycastHit hit, WallPenetration wallPenetration, ref int damagePercent, out MaterialDef hitMaterial) { }
+
+
+
+
+
+
+
+wallbang    +C0
+0x15501dc
+
+D503201F
+
+private void ProcessHitBuffers(int wallHitCount, int characterHitCount, BurstData burstData) { }
+
+
+
+
+
+
+
+
+
+No Sniper Blur
+0x13BBF60
+
+C0035FD6
+
+public void set_Spread(float value) { }
+
+
+
+
+
+
+Walk Through Walls
+0x2873C4C
+
+0090341EC0035FD6
+
+public float get_radius() { }
+
+
+
+
+
+
+
+Walk on Air
+0x2873C9C
+
+0010221EC0035FD6
+
+
+public float get_height() { }
+
+
+
+
+
+Aim
+0x1414D98
+
+0010201EC0035FD6  -2
+0090221EC0035FD6  -5
+0010241EC0035FD6  -8
+
+private float CriticalOps.Gameplay.IAimSettingsTouch.get_AimAssistAmount() { }
+
+
+
+
+
+
+
+
+
+
+
+tutorial bypass
+0x1846210
+0x1845934
+0x1845FE4
+0x18452CC
+0x18455A0
+
+
+60018052C0035FD6
+60018052C0035FD6
+60018052C0035FD6
+60018052C0035FD6
+60018052C0035FD6
+
+
+
+
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsGameplayStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsMenuStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsPracticeStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsFirstMatchStageCompleted() { }
+public ftvddl2n<TutorialManager.StageCompletionResult> get_IsProfileStageCompleted() { }

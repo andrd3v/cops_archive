@@ -1,0 +1,123 @@
+/*****************************
+Critical Ops v1.28.0 Offsets
+/*****************************
+Spectator Radar
+
+Offset - 0x1643C7C
+
+Bytes - 0x00008092C0035FD6
+/*****************************
+Play While Banned
+
+Offset - 0x15A6EDC
+
+Bytes - 0x200080D2C0035FD6
+/*****************************
+Bypass Tutorial
+
+Offset - 0x16B434C, 0x16AD640, 0x16B49C8, 0x16B493C
+
+Bytes - 0x200080D2C0035FD6, 0x200080D2C0035FD6, 0x200080D2C0035FD6, 0x200080D2C0035FD6
+/*****************************
+No Recoil 
+
+Offset - 0x1778084
+
+Bytes - 0x000080D2C0035FD6
+/*****************************
+No Sniper Blur
+
+Offset - 0x1634858
+
+Bytes - 0x200080D2C0035FD6
+/*****************************
+Always Crosshair 
+
+Offset - 0x149177C
+
+Bytes - 0x200080D2C0035FD6
+/*****************************
+Hide Crosshair 
+
+Offset - 0x149177C
+
+Bytes - 0x000080D2C0035FD6
+/*****************************
+Radar
+
+Offset - 0x176E918
+
+Bytes - 0x200080D2C0035FD6
+/*****************************
+No AimPunch
+
+Offset - 0x1778194
+
+Bytes - 0x00008092C0035FD6
+/*****************************
+Suppressor
+
+Offset - 0x14918BC
+
+Bytes - 0x200080D2C0035FD6
+/*****************************
+Speed x1
+
+Offset - 0x176F110
+
+Bytes - 0x0050241EC0035FD6
+/*****************************
+Speed x2
+
+Offset - 0x176F110
+
+Bytes - 0x0050241EC0035FD6
+/*****************************
+Speed x3
+
+Offset - 0x176F110
+
+Bytes - 0x00D0251EC0035FD6
+/*****************************
+Speed x4
+Offset - 0x176F110
+
+Bytes - 0x0070261EC0035FD6
+/*****************************
+Aim Assist
+
+Offset - 0x13B16A8
+
+Bytes - 0x0070261EC0035FD6
+/*****************************
+Fly
+
+Offset - 0x23733FC
+
+Bytes - 0x0010211EC0035FD6
+/*****************************
+Team Radar
+
+Offset - 0x1770B64, 0x2375128
+
+Bytes - 0x200080D2C0035FD6, 0x000080D2C0035FD6
+/*****************************
+No Clip
+
+Offset - 0x14E2130
+
+Bytes - 0x000080D2C0035FD6
+/*****************************
+Shoot Thru Walls
+
+Offset - 0x14427D4
+
+Bytes - 0x000080D2C0035FD6
+/*****************************
+No Sniper Overly
+
+Offset - 0x177F6C0
+
+Bytes - 0x000080D2C0035FD6
+/*****************************
+Offsets By nervous
